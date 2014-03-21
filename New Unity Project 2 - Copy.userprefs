@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\rabbitSeek.js">
+    <Files>
+      <File FileName="Assets\changeText.js" Line="1" Column="1" />
+      <File FileName="Assets\forager.js" Line="1" Column="1" />
+      <File FileName="Assets\script2.js" Line="1" Column="1" />
+      <File FileName="Assets\rabbitSeek.js" Line="1" Column="1" />
+      <File FileName="Assets\curedPerson.js" Line="28" Column="48" />
+      <File FileName="Assets\respondToStrike.js" Line="4" Column="32" />
+      <File FileName="Assets\shootSpell.js" Line="65" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

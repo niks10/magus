@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\rabbitSeek.js">
+    <Files>
+      <File FileName="Assets\barIndicator.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\TitleGUI4.js" Line="27" Column="35" />
+      <File FileName="Assets\script2.js" Line="8" Column="64" />
+      <File FileName="Assets\MalariaTrigger.js" Line="1" Column="1" />
+      <File FileName="Assets\rabbitSeek.js" Line="1" Column="1" />
+      <File FileName="Assets\barIndicator.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\TitleGUI.js" Line="1" Column="1" />
+      <File FileName="Assets\checkCollision.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\InventoryGUI.js" Line="3" Column="11" />
+      <File FileName="Assets\Script\TitleGUI1.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\TitleGUI2.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\TitleGUI3.js" Line="19" Column="40" />
+      <File FileName="Assets\respondToStrike.js" Line="14" Column="2" />
+      <File FileName="Assets\shootRay.js" Line="1" Column="1" />
+      <File FileName="Assets\shootSpell.js" Line="5" Column="30" />
+      <File FileName="Assets\GameOver.js" Line="1" Column="1" />
+      <File FileName="Assets\curedPerson.js" Line="1" Column="1" />
+      <File FileName="Assets\CountdownTimer.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
